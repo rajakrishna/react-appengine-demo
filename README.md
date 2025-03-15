@@ -14,6 +14,8 @@ npm run dev
 
 ## Deployment to Google App Engine
 
+For a detailed step-by-step guide, check out this [blog post](https://medium.com/@rajakrishna/how-to-deploy-a-react-vite-app-to-google-app-engine-step-by-step-guide-d34579e8ee65).
+
 ### Prerequisites
 - Google Cloud SDK installed
 - A Google Cloud Project
